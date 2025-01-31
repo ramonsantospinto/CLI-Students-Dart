@@ -1,5 +1,5 @@
-name: cli_treino
-description: A sample command-line application.
+name: cli_students
+description: CLI estudantes, busca por alunos, por id , por todos, cursos, adiciona, atualiza e deleta alunos.
 version: 1.0.0
 # repository: https://github.com/my_org/my_repo
 
