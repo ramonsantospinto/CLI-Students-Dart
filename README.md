@@ -9,7 +9,7 @@ Comandos;
 
 packages utilizados
 
-
+[dio](https://pub.dev/packages/dio)
 
 utilizei boa prática de import, utilizando o linter
 prefer_relative_imports
