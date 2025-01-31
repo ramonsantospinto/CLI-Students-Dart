@@ -9,12 +9,7 @@ Comandos;
 
 packages utilizados
 
-```
-[GitHub Pages](https://pages.github.com/).
-[dio](https://pub.dev/packages/dio).
-[json_rest](https://pub.dev/packages/json_rest_server).
-args
-```
+
 
 utilizei boa prática de import, utilizando o linter
 prefer_relative_imports
