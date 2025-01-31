@@ -15,7 +15,7 @@ packages utilizados
 
   
 
-utilizei boa prática de import, utilizando o linter
+utilizei boa prática de import, utilizando o linter\
 prefer_relative_imports
 
 para dúvidas entre em contato: ramonsantospinto@gmail.com
