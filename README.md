@@ -9,7 +9,11 @@ Comandos;
 
 packages utilizados
 
-[dio](https://pub.dev/packages/dio)
+  [dio](https://pub.dev/packages/dio)
+  [json_rest](https://pub.dev/packages/json_rest_server)
+  [args](https://pub.dev/packages/args)
+
+  
 
 utilizei boa prática de import, utilizando o linter
 prefer_relative_imports
