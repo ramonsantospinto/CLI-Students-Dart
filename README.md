@@ -4,7 +4,7 @@
  CLI Estudantes\
  CLI de estudantes criado por mim, para subir o servidor RESTful, entre na pasta cli_api pelo prompt e ativa o servidor digitando jrs run
 
-Commmands\
+Commands\
 Comandos;
 
 ![alt text](image.png)
